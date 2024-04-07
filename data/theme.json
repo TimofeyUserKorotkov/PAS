@@ -1,0 +1,10 @@
+{
+    "colors": {
+        "sidebar_left": [30, 30, 30],
+        "sidebar_right": [30, 30, 30],
+        "bottom_bar": [120, 100, 180],
+        "stripes": [10, 10, 10],
+        "contrast_stripes_left": [70, 70, 70],
+        "contrast_stripes_right": [70, 70, 70]
+    }
+}

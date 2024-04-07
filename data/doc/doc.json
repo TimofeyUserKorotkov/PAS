@@ -1,0 +1,15 @@
+{
+    "tools": {
+        "pencil": 0,
+        "eraser": 1,
+        "crop_img": 3,
+        "crop_bg": 4,
+        "easy_crop": 5,
+        "filling": 6,
+        "drag": 7,
+        "select": 8,
+        "open_window": 9,
+        "resolution": 10,
+        "pipet": 11
+    }
+}
